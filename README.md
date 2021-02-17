@@ -1,0 +1,2 @@
+# vscodeConfigForDebug
+json文件以让vscode可以使用gdb进行debug
